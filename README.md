@@ -100,9 +100,9 @@ This repository will be expanded with many more tasks in the future, such as:
 
 **Created by:** Sasikiran Kakara
 
-- **GitHub:** [Your GitHub Username](https://github.com/sasikirankakara1)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/sasikirankakara/)
-- **Email:** [your.email@example.com](mailto:sasikiran.kakaraqa@gmail.com)
+- **GitHub:** [sasikirankakara1](https://github.com/sasikirankakara1)
+- **LinkedIn:** [Sasikiran Kakara](https://www.linkedin.com/in/sasikirankakara/)
+- **Email:** [sasikiran.kakaraqa@gmail.com](mailto:sasikiran.kakaraqa@gmail.com)
 
 ---
 
@@ -110,8 +110,8 @@ This repository will be expanded with many more tasks in the future, such as:
 
 For collaboration, interview prep, or automation opportunities, feel free to connect:
 
-- **LinkedIn:** [your-linkedin-profile](https://www.linkedin.com/in/sasikirankakara/)
-- **Email:** [your.email@example.com](mailto:sasikiran.kakaraqa@gmail.com)
+- **LinkedIn:** [Sasikiran Kakara](https://www.linkedin.com/in/sasikirankakara/)
+- **Email:** [sasikiran.kakaraqa@gmail.com](mailto:sasikiran.kakaraqa@gmail.com)
 
 ---
 
